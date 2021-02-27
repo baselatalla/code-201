@@ -65,8 +65,17 @@ Ex:
 
   In a traditional HTML page there are a lot of  < div > tags to gather related elements on the page such as
 the a header, an article, footer or sidebar with using class or id attributes to indicate the role of the 
-< div > element in the structure of the page. _*HTML5*_ introduces a new set of elements that allow you to 
+< div > element in the structure of the page.
+
+![traditional](https://user-images.githubusercontent.com/55560502/109402984-0d7dbf00-7963-11eb-8bb3-ebcefd64f0b1.PNG)
+
+
+_*HTML5*_ introduces a new set of elements that allow you to 
 divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. 
+
+![5](https://user-images.githubusercontent.com/55560502/109402999-2c7c5100-7963-11eb-85c0-cd733c94aa12.PNG)
+
+
 
 1. Headers < header> & Footers < footer>:
 can be used for:
@@ -131,32 +140,45 @@ In the process of creating a new web site there are many aspects to look after w
   their goals quickly and effectively.
 
 
-  * ###Site Maps
+  * ### Site Maps
 
    The aim is to create a diagram of the pages that will be used to structure the site. This is known as a site
   map and it will show how those pages can be grouped. that help you decide what information should go on each 
   page, you can use a technique called card sorting.
   
-  * ###WireFrames
+  ![sitemap-template](https://user-images.githubusercontent.com/55560502/109403032-7c5b1800-7963-11eb-99c5-806e30891fa0.jpg)
+
+  
+  
+  
+  
+  * ### WireFrames
 
      A wireframe is a simple sketch of the key information that needs to go on each page of a
   site. It shows the hierarchy of the information and how much space it might require.
-
-Getting your message across using design, the primary aim of any kind of visual design is to communicate.
+ 
+ 
+ ![wirefram](https://user-images.githubusercontent.com/55560502/109403038-8846da00-7963-11eb-839b-9970c8001722.PNG)
+ 
+ 
+ 
+ 
+ 
+- Getting your message across using design, the primary aim of any kind of visual design is to communicate.
  Organizing and prioritizing information on a page helps users understand its importance and what order to 
  read it in.
 
-Visual hierarchy, most web users do not read entire pages. Rather, they skim to find information. You can use 
+- Visual hierarchy, most web users do not read entire pages. Rather, they skim to find information. You can use 
 contrast to create a visual hierarchy that gets across your key message and helps users find what they are 
 looking for.
 
 
-grouping and Similarity, When making sense of a design, we tend to organize visual elements into groups. 
+- Grouping and Similarity, When making sense of a design, we tend to organize visual elements into groups. 
 Grouping related pieces of information together can make a design easier to comprehend. Here are some ways 
 this can be achieved.
 
 
-Designing Navigation, site navigation not only helps people find where they want to go, but also helps them 
+- Designing Navigation, site navigation not only helps people find where they want to go, but also helps them 
 understand what your site is about and how it is organized. Good navigation tends to follow these principles...
 
 
@@ -205,4 +227,14 @@ rather like writing a recipe that it can follow.
 Each of the steps needs to be written in a programming language that the compu ter understands. In our case, this is JavaScript.
 
 
+
+
+
+
+
+
+
+
+sources :
+* Jon Duckett HTML & CSS Design and Build Websites ©2011 by John Wiley & Sons, Inc., Indianapolis, Indiana
   
