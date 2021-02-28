@@ -1,3 +1,4 @@
+
 # Text in HTML
 
 In case of creating a web page, adding tags to the contents of the page are essasional in order to markup and  
@@ -174,6 +175,7 @@ You can also include CSS rules within an HTML page by placing them inside a *< s
 sits inside the < head> element of the page. The < style> element should use the type attribute to indicate
 that the styles are specified in CSS. The value should be text/css.
 
+
 When building a site with more than one page, you should use an external CSS style sheet. This:
 
 - Allows all pages to use the
@@ -190,5 +192,5 @@ There are many different types of CSS selector that allow you to target rules to
  is an HTML file to demonstrate which elements these CSS selectors would apply to. CSS selectors are case 
  sensitive, so they must match element names and attribute values exactly.
 
-
+![Capture](https://user-images.githubusercontent.com/55560502/109437329-0622e800-7a2d-11eb-93a3-16a2c2f84c3d.PNG)
  
