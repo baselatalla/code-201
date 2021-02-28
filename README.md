@@ -6,7 +6,7 @@ Welcome! , here where you can find all of my *Reading Notes* of the Code 201 Cou
 |    	|           	|  	|  
 |-	  |-  	        |-	|
 | 1 	|  class-01  	|  [link](https://baselatalla.github.io/code-201-reading-notes/class-01)	|
-| 2 	|   	        |  	|  	
+| 2 	|  class-02   |  [link](https://baselatalla.github.io/code-201-reading-notes/class-02)	|  	
 | 3 	|           	|  	|  	
 | 4 	|           	|  	|  	
 | 5	  |           	|  	|  	
