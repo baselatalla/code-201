@@ -193,4 +193,8 @@ There are many different types of CSS selector that allow you to target rules to
  sensitive, so they must match element names and attribute values exactly.
 
 ![Capture](https://user-images.githubusercontent.com/55560502/109437329-0622e800-7a2d-11eb-93a3-16a2c2f84c3d.PNG)
+
+sources :
+
+- Jon Duckett HTML & CSS Design and Build Websites ©2011 by John Wiley & Sons, Inc., Indianapolis, Indiana
  
