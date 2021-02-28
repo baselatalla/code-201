@@ -1,5 +1,6 @@
 # Code 201 Reading Notes 
-https://baselatalla.github.io/code-201-reading-notes/
+
+Welcome! , here where you can find all of my *Reading Notes* of the Code 201 Course.
 
 ## _Table of Content_
 |    	|           	|  	|  
