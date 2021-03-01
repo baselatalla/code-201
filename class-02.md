@@ -194,7 +194,159 @@ There are many different types of CSS selector that allow you to target rules to
 
 ![Capture](https://user-images.githubusercontent.com/55560502/109437329-0622e800-7a2d-11eb-93a3-16a2c2f84c3d.PNG)
 
-sources :
+
+
+
+
+
+## Basic javaScript instracutions
+
+ 1. STATEMENTS:
+
+A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with
+ a semicolon.notes that :
+
+1. Each of the lines of code in green is a statement.
+2. The pink curly braces indicate the start and endof a code block. (Each code block could contain many more statements.)
+3. JAVASCRIPT IS CASE SENSITIVE.
+2. STATEMENTS ARE INSTRUCTIONS AND EACH ONE STARTS ON A NEW LINE.
+3. STATEMENTS CAN BE ORGANIZED INTO CODE BLOCKS. 
+
+
+2. COMMENTS:
+
+You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code.
+like:
+ 
+1./* Th i s script displays a greeting to the user based upon the current time. It is an example from JavaScript & jQuer y book */  (mulyi line comments)
+2. // Create a ne1~ dat e object (one line comment)
+
+
+
+3. VARIABLES:
+A variable is a good name for this concept because the data stored in a variable can change (or vary) each time a script runs. The use of variables to 
+represent numbers or other kinds of data .
+
+
+
+ * HOW TO DECLARE VARIABLES:
+
+to use a variable , you need to announce that you want to use it.this involves creating a variable and giving it a name 
+
+
+
+* HOw TO ASSAIGN THEM A VALUE :
+
+In JS the equal sign (=) is an assignment operater, it says that you are going to assign a value to the  variable ( X = 4;).
+
+3. DATA TYPES:
+
+JavaScript distinguishes between numbers, strings, and true or false values known as Booleans. 
+
+1. NUMERIC DATA TYPE :
+For tasks that involve counting or calculating sums, you will use numbers 0-9 (22).
+
+2. STRING DATA TYPE:
+The strings data type consists ofletters and other characters.('yooyoo').
+
+3. BOOLEAN DATA TYPE
+Boolean data types can have one of two values: true or false.
+
+
+## RULES FOR NAMING VARIABLES
+
+1. The name must begin with a letter, dollar sign ($),or an underscore (_). It must not start with a number.
+
+2. The name can contain letters,numbers, dollar sign ($), or an underscore (_). Note that you must not use a dash(-) or a period (.) in a variable name.
+
+3. You cannot use keywords or reserved words. Keywords are special words that tell the interpreter to dosomething. For example, var is a keyword used to declare a variable. Reservedwords are ones that may be used in a future version of JavaScript.
+
+4. All variables are case sensitive, so score and Score would be different variable names, but it is bad practice to create two variables that have the same name using different cases.
+
+
+5. Use a name that describes the kind of information that the variable stores. For example, fi rstName might be used to store a person's first name, l astNarne for their last name, and age for their age.
+
+
+
+## ARRAYS
+
+An array is a special type of variable. It doesn't just store one value; it stores a list of values.
+Arrays are especially helpful when you do not know how many items a list will contain because, when you create the array, you do not need to specify how many values it will hold
+
+## EXPRESSIONS
+
+An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions.
+1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE
+2. EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE
+
+
+## OPERATORS
+
+Expressions rely on things called operators; they allow programmers to create a single value from one or more values.
+
+1. ARITHMETIC OPERATORS
+JavaScript contains the following mathematical operators, which you can use with numbers. You may remember some from math class.
+
+
+![Capture2](https://user-images.githubusercontent.com/55560502/109458007-a7796080-7a64-11eb-9e90-20516fe87379.PNG)
+
+
+2. STRING OPERATOR 
+There is just one string operator: the+ symbol. It is used to join the strings on either side of it
+ MIXING NUMBERS AND STRINGS TOGETHER
+
+
+## DECISIONS & loops
+
+### if Statement
+
+Use the if statement to specify a block of JavaScript code to be executed if a condition is true
+if (condition) {
+  //  block of code to be executed if the condition is true
+}
+
+  Use the else statement to specify a block of code to be executed if the condition is false
+
+if (condition) {
+  //  block of code to be executed if the condition is true
+} else {
+  //  block of code to be executed if the condition is false
+}
+
+ ### SWITCH STATEMENTS
+ A switch statement starts with a variable called the switch value. Each case indicates a possible
+value for this variable and the code that should run if the variable matches that value.
+
+switch (level) {
+case 'O ne ':
+title= 'Level 1 ' ;
+break;
+case 'Two':
+tit 1 e = ' Level 2 ' ;
+break;
+case ' Three' :
+title = 'Level 3' ;
+break ;
+default :
+title= 'Test';
+break;}
+
+
+
+## To Write a Git Commit Message Commit messages matte:
+The seven rules of a great Git commit message Keep in mind:
+ This has all been said before.
+1. Separate subject from body with a blank line
+2. Limit the subject line to 50 characters
+3. Capitalize the subject line
+4. Do not end the subject line with a period
+5. Use the imperative mood in the subject line
+6. Wrap the body at 72 characters
+7. Use the body to explain what and why vs. how
+
+ sources :
 
 - Jon Duckett HTML & CSS Design and Build Websites ©2011 by John Wiley & Sons, Inc., Indianapolis, Indiana
+- Jon Duckett JAVASCRIPT & JQUERY Interactive Front-End Web Development ©2014 by John Wiley & Sons, Inc., Indianapolis, Indiana
+- https://chris.beams.io/posts/git-commit/
  
