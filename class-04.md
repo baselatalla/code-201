@@ -9,7 +9,8 @@ Links are created using the < a> element. Users can click on anything between th
 and closing < a> tag is known as link text. Where possible, your link text should
 explain where visitors will be taken if they click on it.  
 
->>>img
+![Screenshot_1](https://user-images.githubusercontent.com/55560502/109719747-c5a0a700-7bb1-11eb-9121-8173d331a49f.png)
+
 
 ## Linking to Other Sites
 
@@ -241,17 +242,21 @@ reuse the function (rather than repeating the same set of st atements).
 To create a function, you give it a name and then write the statements needed to achieve its    
  task inside the curly braces. This is known as a function declaration.
 
- >>>>>>> img
+ ![Screenshot_2](https://user-images.githubusercontent.com/55560502/109719785-d4875980-7bb1-11eb-95a8-b2ba8d5e7cbe.png)
+
 
  ## CALLING A FUNCTION
   Having declared the function, you can then execute all of the statements between its curly braces with just one line of code. This is known as calling the function.
 
-  >>>>> img
+  
+  ![Screenshot_3](https://user-images.githubusercontent.com/55560502/109719798-db15d100-7bb1-11eb-84ac-505f7eb0be28.png)
+
 
   ## DECLARING FUNCTIONS
    THAT NEED INFORMATION Sometimes a function needs specific information to perform its task. In such cases, when you declare the function you give it parameters. Inside the function, the parameters act like variables.
->>>>>> img
 
+
+![Screenshot_4](https://user-images.githubusercontent.com/55560502/109719826-e537cf80-7bb1-11eb-97b5-36e179ff5510.png)
 
 
 
