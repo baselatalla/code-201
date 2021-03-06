@@ -170,7 +170,7 @@ indicate opacity. This value is known as an alpha value and is number between 0.
 
 ### CSS 3: HSL Colors
 
-*hsl, hsla*
+*hsl*, *hsla*
 
 The hsl color property has been introduced in CSS3 as an alternative way to specify colors.
 The value of the property starts with the letters hsl, followed  by individual values inside
@@ -219,6 +219,11 @@ The default size of text in browsers is 16px. So a size of 75% would be the equi
 
 3. ems
 An em is equivalent to the width of a letter m.
+
+
+
+![Screenshot_8](https://user-images.githubusercontent.com/55560502/110219172-50d9af80-7ec6-11eb-98ca-ef051e1c67d6.png)
+
 
 
 ### More Font Choice
@@ -453,4 +458,6 @@ link you can click on or any form control can have focus.
 
 ### Attribute Selectors
 
->>>>>>>>>>>>>>>img 
+
+
+![Screenshot_9](https://user-images.githubusercontent.com/55560502/110219178-5cc57180-7ec6-11eb-8c53-fde637ae7517.png)
