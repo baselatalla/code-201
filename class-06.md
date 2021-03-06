@@ -87,7 +87,11 @@ When you create a script–whether it's inline in a < script> element or include
 
 ## Fundamental data types 
 
-IMG>><<>>
+
+![Screenshot_11](https://user-images.githubusercontent.com/55560502/110224260-94daad80-7ee2-11eb-800b-6a62ad53d774.png)
+
+
+
 
 There are also some common terminology considerations to keep in mind. It's common to refer to any Attribute node as an attribute, for example, and to refer to an array of DOM nodes as a nodeList. You'll find these terms and others to be introduced and used throughout the documentation.
 
