@@ -126,7 +126,11 @@ this refers to the object it is contained within.
 The window object represents the current browser window or tab. It is the topmost object in the Browser Object Model, and 
 it contains other objects that tell you about the browser. Here are a selection of the window object's properties and
 methods. You can also see some properties of the screen and hi story objects (which are children of the window object).
->><<<img>>>
+
+
+![Screenshot_6](https://user-images.githubusercontent.com/55560502/110258309-a4bdc480-7faa-11eb-939f-217531a6a63d.png)
+
+
 
 ## USING THE BROWSER OBJECT MODEL
 
@@ -154,7 +158,10 @@ written into the page.
 The topmost object in the Document Object Model (or DOM) is the document object. It represents the web page loaded into 
 the current browser window or tab.
 
-<<<<<img>>>>>
+
+
+![Screenshot_7](https://user-images.githubusercontent.com/55560502/110258319-af785980-7faa-11eb-8ef9-08d14a0d68d4.png)
+
 
 
 ## USING THE DOCUMENT OBJECT
@@ -174,7 +181,9 @@ Whenever you have a value that is a string, you can use the properties
 and methods of the String object on that valu e. This example stores the
 phrase "Home sweet home " in a variable.
 
-<<<<img>>>>
+
+![Screenshot_8](https://user-images.githubusercontent.com/55560502/110258325-b69f6780-7faa-11eb-9025-8599d12a6faf.png)
+
 
 
 ## CREATING AN INSTANCE OF THE DATE OBJECT
@@ -189,5 +198,9 @@ specify the date and time you want it to hold.
 ## GLOBAL OBJECTS: DATE OBJECT (AND TIME)
 
 Once you have created a Date object, the following methods let you set and retrieve the time and date that it represents.
-<<<<img>>>>
+
+
+![Screenshot_9](https://user-images.githubusercontent.com/55560502/110258336-c28b2980-7faa-11eb-9bf9-932d37e7c755.png)
+
+
 
