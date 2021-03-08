@@ -12,7 +12,7 @@ Welcome! , here where you can find all of my *Reading Notes* of the Code 201 Cou
 | 5	  |  class-05 	|  [link](https://baselatalla.github.io/code-201-reading-notes/class-05)	|  	
 | 6   |  class-06   |  [link](https://baselatalla.github.io/code-201-reading-notes/class-06)	|  	
 | 7   |  class-07   |  [link](https://baselatalla.github.io/code-201-reading-notes/class-07)	|  	
-| 8 	|          	  |  	|  	
+| 8 	|  class-08	  |  [link](https://baselatalla.github.io/code-201-reading-notes/class-08)|  	
 | 9 	|         	  |  	|
 | 10 	|         	  |  	|
 | 11 	|         	  |  	|  	
