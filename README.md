@@ -14,7 +14,7 @@ Welcome! , here where you can find all of my *Reading Notes* of the Code 201 Cou
 | 7   |  class-07   |  [link](https://baselatalla.github.io/code-201-reading-notes/class-07)	|  	
 | 8 	|  class-08	  |  [link](https://baselatalla.github.io/code-201-reading-notes/class-08)  |  	
 | 9 	|  class-09   |  [link](https://baselatalla.github.io/code-201-reading-notes/class-09)	|
-| 10 	|         	  |  	|
+| 10 	|  class-10   |  [link](https://baselatalla.github.io/code-201-reading-notes/class-10)	|
 | 11 	|         	  |  	|  	
 | 12 	|         	  |   |  
 | 13 	|         	  |  	|  	
