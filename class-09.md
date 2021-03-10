@@ -418,7 +418,9 @@ Here is a selection of the events that occur in the browser while you are
 browsing the web. Any of these events can be used to trigger a function
 in your JavaScript code.
 
-<<<image>>>
+
+![Screenshot_6](https://user-images.githubusercontent.com/55560502/110523157-66dfae00-811a-11eb-80c8-57a29f0360fd.png)
+
 
 ## TERMINOLOGY
 
@@ -433,7 +435,8 @@ fires on the element in this diagram, it could trigger a script that enlarges
 the selected item.
 
 
-<<<<image>>>>
+![Screenshot_7](https://user-images.githubusercontent.com/55560502/110523182-6f37e900-811a-11eb-8492-026c84d76cd5.png)
+
 
 
 ## HOW EVENTS TRIGGER JAVASCRIPT CODE
