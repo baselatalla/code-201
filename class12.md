@@ -1,3 +1,4 @@
+
 # CHART.JS
 
 Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They’re easier to look at and convey data quickly, but they’re not always easy to create.
@@ -5,38 +6,73 @@ Charts are far better for displaying data visually than tables and have the adde
 ### Setting up
 
  The first thing we need to do is download Chart.js. Copy the Chart.min.js out of the unzipped folder and into the directory you’ll be working in. Then create a new html page and import the script.
->>>>>>>>>>>>>>>>>>>>>>>>>>.
+ 
+ 
+![Screenshot_1](https://user-images.githubusercontent.com/55560502/111086141-4b621200-8523-11eb-879c-bf55de362a13.png)
+
 
 ### Drawing a line chart
 
 To draw a line chart, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart. So add this to the body of our HTML page:
->>>>>>>>>>>>>>>>>>>>..
+
+
+![Screenshot_2](https://user-images.githubusercontent.com/55560502/111086167-6896e080-8523-11eb-8699-c79916c69fbf.png)
+
+
 Next, we need to write a script that will retrieve the context of the canvas, so add this to the foot of your body element:
->>>>>>>>>>>>>>>>>
+
+
+
+![Screenshot_3](https://user-images.githubusercontent.com/55560502/111086178-72204880-8523-11eb-8625-ea177f3fc761.png)
+
 Inside the same script tags we need to create our data, in this instance it’s an object that contains labels for the base of our chart and datasets to describe the values on the chart. Add this immediately above the line that begins ‘var buyers=’:
->>>>>>..
+
+
+![Screenshot_4](https://user-images.githubusercontent.com/55560502/111086181-78162980-8523-11eb-9ab0-c5f8daf990c9.png)
+
 
 ### Drawing a pie chart
 
 Our line chart is complete, so let’s move on to our pie chart. First, we need the canvas element:
->>>>>>>>>>>>
+
+
+![Screenshot_5](https://user-images.githubusercontent.com/55560502/111086188-806e6480-8523-11eb-88e4-44821266d57d.png)
+
 Next, we need to get the context and to instantiate the chart:
->>>>>>>
+
+
+![Screenshot_6](https://user-images.githubusercontent.com/55560502/111086195-882e0900-8523-11eb-89f5-4ecd972fc51d.png)
+
 
 You’ll notice that this time, we are going to supply some options to the chart. Next we need to create the data. This data is a little different to the line chart because the pie chart is simpler, we just need to supply a value and a color for each section:
->>>>>>>
+
+
+![Screenshot_7](https://user-images.githubusercontent.com/55560502/111086199-8d8b5380-8523-11eb-800a-68dd9b5171d9.png)
+
 Now, immediately after the pieData we’ll add our options:
 
->>>>>>
+![Screenshot_8](https://user-images.githubusercontent.com/55560502/111086203-92500780-8523-11eb-8b8d-2d68e624f018.png)
+
 
 ### Drawing a bar chart
 
 Finally, let’s add  a bar chart to our page. Happily the syntax for the bar chart is very similar to the line chart we’ve already added. First, we add the canvas element:
->>>>
+
+
+![Screenshot_13](https://user-images.githubusercontent.com/55560502/111086298-012d6080-8524-11eb-8825-6c0a6cbea3a4.png)
+
+
+
 Next, we retrieve the element and create the graph:
->>>>>>>
+
+
+
+![Screenshot_12](https://user-images.githubusercontent.com/55560502/111086264-dcd18400-8523-11eb-867c-7c5ecdc20d4f.png)
+
+
 And finally, we add in the bar chart’s data:
->>>>>>
+
+![Screenshot_10](https://user-images.githubusercontent.com/55560502/111086215-9ed46000-8523-11eb-878d-3dfcc46d63c1.png)
 
 ## Chart.js docs
 
@@ -49,7 +85,10 @@ You can download the latest version of Chart.js from the GitHub releases or use 
 It's easy to get started with Chart.js. All that's required is the script included in your page along with a single <canvas> node to render the chart.
 
 In this example, we create a bar chart for a single dataset and render that in our page. You can see all the ways to use Chart.js in the usage documentation.
-<<>>
+
+
+![Screenshot_11](https://user-images.githubusercontent.com/55560502/111086309-11ddd680-8524-11eb-8b19-ca90f3f5c871.png)
+
 
 ### Contributing
 
