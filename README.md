@@ -18,8 +18,8 @@ Welcome! , here where you can find all of my *Reading Notes* of the Code 201 Cou
 | 11 	|  class-11   |  [link](https://baselatalla.github.io/code-201-reading-notes/class-11)	|  	
 | 12 	|  class-12   |  [link](https://baselatalla.github.io/code-201-reading-notes/class-12)  |  
 | 13 	|  class-13   |  [link](https://baselatalla.github.io/code-201-reading-notes/class-13)	|  	
-| 14 	|  	          |  	|  	
-| 15 	|  	          |  	|  	
+| 14 	|  class-14a  |  [link](https://baselatalla.github.io/code-201-reading-notes/class-13a)	|  	
+| 15 	|  class-14b  |  [link](https://baselatalla.github.io/code-201-reading-notes/class-14b)	|  	
 
 
 
