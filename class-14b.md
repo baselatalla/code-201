@@ -21,8 +21,8 @@ Conversational turn-taking — People wind up speaking about the same amount in 
 Above average social sensitivity — You can tell how other people feel and read nonverbal cues. (You can see someone’s eyes and get a sense for how they feel)
 When teams were high in psychological safety, they stayed at Google longer, made more revenue for the company, and performed better than other, more senior teams.
 
-2. Dependability:
 
+2. Dependability:
 Can the team rely on each other to do high-quality work on time?
 Team members have to know that their teammates will get their work done ON TIME and with HIGH Quality. This really comes down to knowing the person next to you will get their job done and do it to the best of their ability.
 Does your team own their delays and mistakes or do they shirk responsibility?
@@ -40,8 +40,6 @@ A sense of purpose for each team member results in better performance. Google fo
 
 
 5. Impact of the work:
-
-
 Does the team fundamentally believe that the work they’re doing matters? Does your work actually benefit the company and/or the world as a whole. People don’t want to feel like they are wasting time or treading water. They want to feel like what they are doing is creating a change, whether in the company or to the greater good. OKR’s allow for visibility into how a member’s work affects the larger company. Consistently showing how the team’s actions help the company will boost the team’s performance. The team will feel like what they do matters. That it is important.
 
 
